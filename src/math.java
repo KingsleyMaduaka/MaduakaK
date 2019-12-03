@@ -4,6 +4,7 @@ class Math{
         return first + second;
     }
     public int sub(int first, int second){
+        System.out.println("Hellow I am Sub method");
         return first - second;
     }
 }
