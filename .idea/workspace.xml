@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d835a01b-5030-4a35-9b9c-3da0956f5684" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UTT1PlVGLGlhyzWN7lBfH1Yund" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="google.usagetracker.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d835a01b-5030-4a35-9b9c-3da0956f5684" name="Default Changelist" comment="" />
+      <created>1575379370550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575379370550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>
